@@ -1,0 +1,306 @@
+# Translation of
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Grind Mobile App\n"
+"Report-Msgid-Bugs-To: asd\n"
+"POT-Creation-Date: 2021-06-21 11:31+0300\n"
+"PO-Revision-Date: 2021-06-21 14:13+0300\n"
+"Language-Team: gdfgdfg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Language: bg_BG\n"
+
+#: admin/pages/Settings.php:17
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/pages/Settings.php:29
+msgid "Save"
+msgstr "Запази"
+
+#: api/Cart.php:401
+msgid "Sorry, your session has expired."
+msgstr "Съжаляваме, вашата сесия е изтекла."
+
+#: api/Cart.php:572
+#, php-format
+msgctxt "shipping packages"
+msgid "Shipping %d"
+msgstr "Доставка %d"
+
+#: api/Cart.php:572
+msgctxt "shipping packages"
+msgid "Shipping"
+msgstr "Доставка"
+
+#: api/Cart.php:617 api/Cart.php:665
+msgid "Cart item key not exist."
+msgstr "Не съществува ключ за елемент на количката."
+
+#: api/Cart.php:624
+msgid " not enough stock. Available stock: "
+msgstr " недостатъчна наличност. Наличност: "
+
+#: api/Cart.php:632
+msgid "The quantity not validate"
+msgstr "Количеството не е потвърдено"
+
+#: api/Cart.php:700 api/Cart.php:734
+msgid "Coupon not exist."
+msgstr "Купонът не съществува."
+
+#: api/class-mobile-builder-vendor.php:489
+#, php-format
+msgid "Order %s changed to %s"
+msgstr "Поръчка %s променена на %s"
+
+#: api/class-mobile-builder-vendor.php:595
+#: api/class-mobile-builder-vendor.php:604
+#, php-format
+msgid "Order <b>%s</b> item <b>%s</b> delivered by <b>%s</b>."
+msgstr "Поръчка <b>%s</b> на <b>%s</b> артикул, доставен от <b>%s</b> ."
+
+#: api/class-mobile-builder-vendor.php:608
+#: api/class-mobile-builder-vendor.php:617
+#, php-format
+msgid "Order <b>%s</b> delivered by <b>%s</b>."
+msgstr "Поръчка <b>% s </b> доставена от <b>% s </b>."
+
+#: api/class-mobile-builder-vendor.php:633
+msgid "Delivery status updated."
+msgstr "Състоянието на доставка е актуализирано."
+
+#: api/class-mobile-builder-wcfm.php:99
+msgid "We not allow you edit that info."
+msgstr "Не ви позволяваме да редактирате тази информация."
+
+#: api/PublicApi.php:284 api/PublicApi.php:1032
+msgid "Your phone number already exist in database!"
+msgstr "Вашият телефонен номер вече съществува в базата данни!"
+
+#: api/PublicApi.php:289
+msgid "Phone number not exist!"
+msgstr "Телефонен номер не съществува!"
+
+#: api/PublicApi.php:295
+msgid "Your phone number not exist in database!"
+msgstr "Вашият телефонен номер не съществува в базата данни!"
+
+#: api/PublicApi.php:300
+msgid "Phone number number exist!"
+msgstr "Телефонен номер съществува!"
+
+#: api/PublicApi.php:321
+msgid "Something wrong!."
+msgstr "Нещо се обърка!."
+
+#: api/PublicApi.php:370
+msgid "Failed to process payment. WooCommerce either missing or deactivated."
+msgstr ""
+"Обработката на плащането не бе успешна. WooCommerce или липсва, или е "
+"деактивиран."
+
+#: api/PublicApi.php:375 api/PublicApi.php:477
+msgid "Order ID 'order_id' is required."
+msgstr "Идентификационният номер на поръчката „order_id“ е задължителен."
+
+#: api/PublicApi.php:379 api/PublicApi.php:481
+msgid "Order ID 'order_id' is invalid. Order does not exist."
+msgstr ""
+"Идентификационният номер на поръчката „order_id“ е невалиден. Поръчката не "
+"съществува."
+
+#: api/PublicApi.php:383
+msgid "Order status is '"
+msgstr "Състоянието на поръчката е '"
+
+#: api/PublicApi.php:388
+msgid "Payment Method 'payment_method' is required."
+msgstr "Изисква се метод на плащане 'payment_method'."
+
+#: api/PublicApi.php:402 api/PublicApi.php:406 api/PublicApi.php:411
+msgid "Failed to process payment. WooCommerce Gateway '"
+msgstr "Обработката на плащането не бе успешна. WooCommerce Gateway '"
+
+#: api/PublicApi.php:428
+msgid "Payment Successful."
+msgstr "Плащането е успешно."
+
+#: api/PublicApi.php:434
+msgid "Payment Failed, Check WooCommerce Status Log for further information."
+msgstr ""
+"Плащането е неуспешно, проверете регистрационния файл на WooCommerce за "
+"допълнителна информация."
+
+#: api/PublicApi.php:437
+msgid "Payment Failed, Pre Process Failed."
+msgstr "Плащането е неуспешно, предварителната обработка е неуспешна."
+
+#: api/PublicApi.php:458 api/PublicApi.php:509
+msgid "Your Payment was Successful"
+msgstr "Плащането Ви беше успешно"
+
+#: api/PublicApi.php:462 api/PublicApi.php:520
+msgid "Please enter valid card details"
+msgstr "Моля, въведете валидни данни за картата"
+
+#: api/PublicApi.php:488
+msgid "Payment source 'stripe_source' is required."
+msgstr "Изисква се източник на плащане „stripe_source“."
+
+#: api/PublicApi.php:575 api/PublicApi.php:623
+msgid "Please login first."
+msgstr "Моля, първо влезте в профила си."
+
+#: api/PublicApi.php:705
+msgid "Some thing wrong."
+msgstr ""
+
+#: api/PublicApi.php:733
+msgid "You did not create user wp_auth_user"
+msgstr "Не сте създали потребител wp_auth_user"
+
+#: api/PublicApi.php:754
+msgid "<strong>ERROR</strong>: Enter a username or email address."
+msgstr ""
+"<strong> ГРЕШКА </strong>: Въведете потребителско име или имейл адрес."
+
+#: api/PublicApi.php:759 api/PublicApi.php:772
+msgid ""
+"<strong>ERROR</strong>: There is no account with that username or email "
+"address."
+msgstr ""
+"<strong> ГРЕШКА </strong>: Няма акаунт с това потребителско име или имейл "
+"адрес."
+
+#: api/PublicApi.php:796
+msgid "Someone has requested a password reset for the following account:"
+msgstr "Някой е поискал възстановяване на паролата за следния акаунт:"
+
+#: api/PublicApi.php:798
+#, php-format
+msgid "Site Name: %s"
+msgstr "Име на сайта:% s"
+
+#: api/PublicApi.php:800
+#, php-format
+msgid "Username: %s"
+msgstr "Потребителско име:% s"
+
+#: api/PublicApi.php:801
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+"Ако това е грешка, просто игнорирайте този имейл и нищо няма да се случи."
+
+#: api/PublicApi.php:802
+msgid "To reset your password, visit the following address:"
+msgstr "За да нулирате паролата си, посетете следния адрес:"
+
+#: api/PublicApi.php:807
+#, php-format
+msgid "[%s] Password Reset"
+msgstr "[% s] Нулиране на паролата"
+
+#: api/PublicApi.php:841
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr ""
+"Възможна причина: вашият хост може да е деактивирал функцията mail ()."
+
+#: api/PublicApi.php:880 api/PublicApi.php:927
+msgid "Your input email not valid or exist in database."
+msgstr "Вашият въведен имейл не е валиден или съществува в базата данни."
+
+#: api/PublicApi.php:891 api/PublicApi.php:938
+msgid "Your username exist."
+msgstr "Вашето потребителско име съществува."
+
+#: api/PublicApi.php:898
+msgid "success!"
+msgstr "успех!"
+
+#: api/PublicApi.php:949
+msgid "First name not valid."
+msgstr "Името не е валидно."
+
+#: api/PublicApi.php:960
+msgid "Last name not valid."
+msgstr "Фамилното име не е валидно."
+
+#: api/PublicApi.php:971
+msgid "Password is required."
+msgstr "Изисква се парола."
+
+#: api/PublicApi.php:1013
+msgid "Your phone number not validate"
+msgstr "Вашият телефонен номер не е потвърден"
+
+#: api/PublicApi.php:1106 api/PublicApi.php:1480
+msgid "Get Firebase user info error!"
+msgstr "Получете грешка в потребителската информация за Firebase!"
+
+#: api/PublicApi.php:1116 api/PublicApi.php:1338
+msgid "User not provider email"
+msgstr "Потребител не е имейл на доставчика"
+
+#: api/PublicApi.php:1192
+msgid "Wrong number of segments"
+msgstr "Грешен брой сегменти"
+
+#: api/PublicApi.php:1204
+msgid "Invalid header encoding"
+msgstr "Невалидно кодиране на заглавката"
+
+#: api/PublicApi.php:1214
+msgid "\"kid\" empty, unable to lookup correct key"
+msgstr "\"kid\" празно, не може да се търси правилен ключ"
+
+#: api/PublicApi.php:1231
+msgid "User not validate"
+msgstr "Потребителят не потвърждава"
+
+#: api/PublicApi.php:1323
+msgid "Graph returned an error: "
+msgstr "Графиката връща грешка:"
+
+#: api/PublicApi.php:1327
+msgid "Facebook SDK returned an error: "
+msgstr "Facebook SDK върна грешка:"
+
+#: api/PublicApi.php:1453
+msgid "The BCAPP_FIREBASE_SERVER_KEY not define in wp-config.php"
+msgstr ""
+
+#: api/PublicApi.php:1488
+msgid "The user not exist."
+msgstr "Потребителят не съществува."
+
+#: api/PublicApi.php:1505
+msgid "Did not find any members matching the phone number!"
+msgstr "Не намерих членове, отговарящи на телефонния номер!"
+
+#: api/PublicApi.php:1587
+msgid "Authorization header not found."
+msgstr "Заглавката на упълномощаването не е намерена."
+
+#: api/PublicApi.php:1600
+msgid "Token not validate format."
+msgstr "Токенът не потвърждава формата."
+
+#: api/PublicApi.php:1616
+msgid "The iss do not match with this server"
+msgstr ""
+
+#: api/PublicApi.php:1625
+msgid "User ID not found in the token"
+msgstr "Потребителски идентификатор не е намерен в маркера"
+
+#: api/PublicApi.php:1742
+msgid "Sorry, you cannot change info."
+msgstr "За съжаление не можете да променяте информацията."

@@ -1,0 +1,296 @@
+# Translation of
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Grind Mobile App\n"
+"Report-Msgid-Bugs-To: asd\n"
+"POT-Creation-Date: 2021-06-21 11:31+0300\n"
+"PO-Revision-Date: 2021-06-21 13:18+0200\n"
+"Last-Translator: zxczxc\n"
+"Language-Team: gdfgdfg\n"
+"Language: bg_BG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1;   plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: admin/pages/Settings.php:17
+msgid "Settings"
+msgstr ""
+
+#: admin/pages/Settings.php:29
+msgid "Save"
+msgstr ""
+
+#: api/Cart.php:401
+msgid "Sorry, your session has expired."
+msgstr ""
+
+#: api/Cart.php:572
+#, php-format
+msgctxt "shipping packages"
+msgid "Shipping %d"
+msgstr ""
+
+#: api/Cart.php:572
+msgctxt "shipping packages"
+msgid "Shipping"
+msgstr ""
+
+#: api/Cart.php:617 api/Cart.php:665
+msgid "Cart item key not exist."
+msgstr ""
+
+#: api/Cart.php:624
+msgid " not enough stock. Available stock: "
+msgstr ""
+
+#: api/Cart.php:632
+msgid "The quantity not validate"
+msgstr ""
+
+#: api/Cart.php:700 api/Cart.php:734
+msgid "Coupon not exist."
+msgstr ""
+
+#: api/class-mobile-builder-vendor.php:489
+#, php-format
+msgid "Order %s changed to %s"
+msgstr ""
+
+#: api/class-mobile-builder-vendor.php:595
+#: api/class-mobile-builder-vendor.php:604
+#, php-format
+msgid "Order <b>%s</b> item <b>%s</b> delivered by <b>%s</b>."
+msgstr ""
+
+#: api/class-mobile-builder-vendor.php:608
+#: api/class-mobile-builder-vendor.php:617
+#, php-format
+msgid "Order <b>%s</b> delivered by <b>%s</b>."
+msgstr ""
+
+#: api/class-mobile-builder-vendor.php:633
+msgid "Delivery status updated."
+msgstr ""
+
+#: api/class-mobile-builder-wcfm.php:99
+msgid "We not allow you edit that info."
+msgstr ""
+
+#: api/PublicApi.php:284 api/PublicApi.php:1032
+msgid "Your phone number already exist in database!"
+msgstr ""
+
+#: api/PublicApi.php:289
+msgid "Phone number not exist!"
+msgstr ""
+
+#: api/PublicApi.php:295
+msgid "Your phone number not exist in database!"
+msgstr ""
+
+#: api/PublicApi.php:300
+msgid "Phone number number exist!"
+msgstr ""
+
+#: api/PublicApi.php:321
+msgid "Something wrong!."
+msgstr ""
+
+#: api/PublicApi.php:370
+msgid "Failed to process payment. WooCommerce either missing or deactivated."
+msgstr ""
+
+#: api/PublicApi.php:375 api/PublicApi.php:477
+msgid "Order ID 'order_id' is required."
+msgstr ""
+
+#: api/PublicApi.php:379 api/PublicApi.php:481
+msgid "Order ID 'order_id' is invalid. Order does not exist."
+msgstr ""
+
+#: api/PublicApi.php:383
+msgid "Order status is '"
+msgstr ""
+
+#: api/PublicApi.php:388
+msgid "Payment Method 'payment_method' is required."
+msgstr ""
+
+#: api/PublicApi.php:402 api/PublicApi.php:406 api/PublicApi.php:411
+msgid "Failed to process payment. WooCommerce Gateway '"
+msgstr ""
+
+#: api/PublicApi.php:428
+msgid "Payment Successful."
+msgstr ""
+
+#: api/PublicApi.php:434
+msgid "Payment Failed, Check WooCommerce Status Log for further information."
+msgstr ""
+
+#: api/PublicApi.php:437
+msgid "Payment Failed, Pre Process Failed."
+msgstr ""
+
+#: api/PublicApi.php:458 api/PublicApi.php:509
+msgid "Your Payment was Successful"
+msgstr ""
+
+#: api/PublicApi.php:462 api/PublicApi.php:520
+msgid "Please enter valid card details"
+msgstr ""
+
+#: api/PublicApi.php:488
+msgid "Payment source 'stripe_source' is required."
+msgstr ""
+
+#: api/PublicApi.php:575 api/PublicApi.php:623
+msgid "Please login first."
+msgstr ""
+
+#: api/PublicApi.php:705
+msgid "Some thing wrong."
+msgstr ""
+
+#: api/PublicApi.php:733
+msgid "You did not create user wp_auth_user"
+msgstr ""
+
+#: api/PublicApi.php:754
+msgid "<strong>ERROR</strong>: Enter a username or email address."
+msgstr ""
+
+#: api/PublicApi.php:759 api/PublicApi.php:772
+msgid ""
+"<strong>ERROR</strong>: There is no account with that username or email "
+"address."
+msgstr ""
+
+#: api/PublicApi.php:796
+msgid "Someone has requested a password reset for the following account:"
+msgstr ""
+
+#: api/PublicApi.php:798
+#, php-format
+msgid "Site Name: %s"
+msgstr ""
+
+#: api/PublicApi.php:800
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: api/PublicApi.php:801
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: api/PublicApi.php:802
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: api/PublicApi.php:807
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: api/PublicApi.php:841
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+#: api/PublicApi.php:880 api/PublicApi.php:927
+msgid "Your input email not valid or exist in database."
+msgstr ""
+
+#: api/PublicApi.php:891 api/PublicApi.php:938
+msgid "Your username exist."
+msgstr ""
+
+#: api/PublicApi.php:898
+msgid "success!"
+msgstr ""
+
+#: api/PublicApi.php:949
+msgid "First name not valid."
+msgstr ""
+
+#: api/PublicApi.php:960
+msgid "Last name not valid."
+msgstr ""
+
+#: api/PublicApi.php:971
+msgid "Password is required."
+msgstr ""
+
+#: api/PublicApi.php:1013
+msgid "Your phone number not validate"
+msgstr ""
+
+#: api/PublicApi.php:1106 api/PublicApi.php:1480
+msgid "Get Firebase user info error!"
+msgstr ""
+
+#: api/PublicApi.php:1116 api/PublicApi.php:1338
+msgid "User not provider email"
+msgstr ""
+
+#: api/PublicApi.php:1192
+msgid "Wrong number of segments"
+msgstr ""
+
+#: api/PublicApi.php:1204
+msgid "Invalid header encoding"
+msgstr ""
+
+#: api/PublicApi.php:1214
+msgid "\"kid\" empty, unable to lookup correct key"
+msgstr ""
+
+#: api/PublicApi.php:1231
+msgid "User not validate"
+msgstr ""
+
+#: api/PublicApi.php:1323
+msgid "Graph returned an error: "
+msgstr ""
+
+#: api/PublicApi.php:1327
+msgid "Facebook SDK returned an error: "
+msgstr ""
+
+#: api/PublicApi.php:1453
+msgid "The BCAPP_FIREBASE_SERVER_KEY not define in wp-config.php"
+msgstr ""
+
+#: api/PublicApi.php:1488
+msgid "The user not exist."
+msgstr ""
+
+#: api/PublicApi.php:1505
+msgid "Did not find any members matching the phone number!"
+msgstr ""
+
+#: api/PublicApi.php:1587
+msgid "Authorization header not found."
+msgstr ""
+
+#: api/PublicApi.php:1600
+msgid "Token not validate format."
+msgstr ""
+
+#: api/PublicApi.php:1616
+msgid "The iss do not match with this server"
+msgstr ""
+
+#: api/PublicApi.php:1625
+msgid "User ID not found in the token"
+msgstr ""
+
+#: api/PublicApi.php:1742
+msgid "Sorry, you cannot change info."
+msgstr ""

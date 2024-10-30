@@ -1,0 +1,14 @@
+{
+    "name": "grind/mobile-app",
+    "autoload": {
+        "psr-4": {
+            "BCAPP\\": "./"
+        },
+        "files": ["Helpers/functions.php"]
+    },
+    "require": {
+        "facebook/graph-sdk": "^5.7",
+        "firebase/php-jwt": "^5.3",
+        "stripe/stripe-php": "^7.116"
+    }
+}
